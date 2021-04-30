@@ -1,5 +1,4 @@
-~ Secrets.json
-~ keyword - image dictionary
+~ Save last image from user in the image dictionary
 ~ Weather API
 ~ Covid-19 status API
 ~ Automatic detection of channel / channel assignment / bind to all channels
