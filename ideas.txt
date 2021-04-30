@@ -1,0 +1,11 @@
+~ Secrets.json
+~ keyword - image dictionary
+~ Weather API
+~ Covid-19 status API
+~ Automatic detection of channel / channel assignment / bind to all channels
+~ Custom radial blur function -> check java example
+~ Other image manipulation functions
+~ Coinflip or other random function
+~ Inspiration quote
+~ Search youtube for a random music video
+~ Search google images for a random image
