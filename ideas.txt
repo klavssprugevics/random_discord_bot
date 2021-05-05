@@ -4,7 +4,9 @@
 ~ Automatic detection of channel / channel assignment / bind to all channels
 ~ Custom radial blur function -> check java example
 ~ Other image manipulation functions
-~ Coinflip or other random function
+~ Random number generator
 ~ Inspiration quote
 ~ Search youtube for a random music video
 ~ Search google images for a random image
+~ List available commands
+~ Utility function for syncing images in a directory. Create dictionary commands from image names in a subdirectory
