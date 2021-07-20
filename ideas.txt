@@ -10,3 +10,4 @@
 ~ Search google images for a random image
 ~ List available commands
 ~ Utility function for syncing images in a directory. Create dictionary commands from image names in a subdirectory
+~ A new idea...
